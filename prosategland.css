@@ -1,0 +1,27 @@
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 0 20px;
+  line-height: 1.6;
+}
+
+header, section {
+  margin-bottom: 2em;
+}
+
+h1 { color: #2a5d84; }
+h2 { color: #333; margin-top: 1em; }
+
+button {
+  padding: 0.6em 1.2em;
+  background-color: #2a5d84;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1f4770;
+}
