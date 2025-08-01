@@ -1,7 +1,7 @@
 # Health
 Prostate Cancer Awareness Web Project
 
-This project is a simple educational web page created using **HTML**, **CSS**, and **JavaScript**. It aims to inform and empower men with useful lifestyle tips, research, and screening information that can help in fighting and surviving prostate cancer.
+This project is an eduactional web page  created using HTML, CSS, and JavaScript. It aims to inform and empower men with useful lifestyle tips, research, and screening information that can help in fighting and surviving prostate cancer.
 
  Project Purpose
 
@@ -22,13 +22,11 @@ Prostate cancer is one of the most common cancers in men worldwide. Early detect
 
 prostate-cancer-awareness/
 
-─ index.html # Main content of the web page
-── styles.css # Styling for the page
-── script.js # Script for interactive tips
+─ prostate.html # Main content of the web page
+── prostategland.css # Styling for the page
+── prostatecancer.js # Script for interactive tips
 
-markdown
-Copy
-Edit
+
 
  Features
 
@@ -48,7 +46,7 @@ This project includes real citations from verified health sources such as:
  How to Use
 
 1. Clone or download the repository.
-2. Open `index.html` in any web browser.
+2. Open `prostate.html` in any web browser.
 3. Read through the sections and click the button to reveal random health tips.
 
  Who This Is For
@@ -60,4 +58,4 @@ This project includes real citations from verified health sources such as:
 
  Acknowledgment
 
-Thanks to all the healthcare professionals and researchers whose work was cited and summa
+Thanks to all the healthcare professionals and researchers whose work was cited 
